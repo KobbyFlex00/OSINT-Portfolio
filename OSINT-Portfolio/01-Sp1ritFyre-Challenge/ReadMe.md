@@ -57,16 +57,17 @@ A Blogger profile linked directly to the target's personal alias.
 ![Blog Profile](evidence/03-blog-profile.jpeg)
 
 
-📊 Findings & Profile Summary
-Attribute	Details Identified
-Real Name	Sammie Woods
-Alias	Sp1ritFyre
-Location	United Kingdom
-Occupation	Junior Penetration Tester
-Email	d1ved33p@gmail.com
-Malicious Activity	Connected to MSP breach & leaked credentials
-🧠 Skills Demonstrated
+| Attribute              | Details Identified                           |
+| ---------------------- | -------------------------------------------- |
+| **Real Name**          | Sammie Woods                                 |
+| **Alias**              | Sp1ritFyre                                   |
+| **Location**           | United Kingdom                               |
+| **Occupation**         | Junior Penetration Tester                    |
+| **Email**              | `d1ved33p@gmail.com`                         |
+| **Malicious Activity** | Connected to MSP breach & leaked credentials |
 
+---
+🧠 Skills Demonstrated
 Digital Footprinting: Mapping identity across platforms
 
 De-obfuscation: Base64 decoding & data interpretation
