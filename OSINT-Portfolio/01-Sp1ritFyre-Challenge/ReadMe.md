@@ -41,7 +41,7 @@ Using the discovered domain, I performed Google Dorking to find correlated accou
 **Query Used:**
 ```text
 "redhunt.net" -site:redhunt.net
-
+````
 
 *Purpose: To find external sites (blogs, forums) that link back to the target's portfolio.*
 
@@ -79,5 +79,3 @@ Through cross-referencing the blog, website, and social media, I established the
 ## ⚠️ Disclaimer
 
 *This project was performed as part of a cybersecurity training challenge (CTF). All "personally identifiable information" (PII) found refers to fictional characters created for the educational scenario. No real individuals were doxxed or investigated.*
-
-````
