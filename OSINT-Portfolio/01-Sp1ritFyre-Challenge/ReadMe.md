@@ -24,7 +24,7 @@ This investigation simulates a real-world scenario of profiling a threat actor i
 The starting point was a Twitter handle provided in the challenge scope.
 * **Target:** `@sp1ritfyre`
 * **Observation:**  
-![Twitter Bio](01-twitter-bio.png)
+![Twitter Bio](OSINT-Portfolio/01-Sp1ritFyre-Challenge/evidence/01-twitter-bio.jpeg)
 
 ### Phase 2: Decoding & Pivoting
 Suspecting encoded data, I used **CyberChef** to analyze the string.
@@ -32,7 +32,7 @@ Suspecting encoded data, I used **CyberChef** to analyze the string.
 * **Input:** `cmVkaHVudC5uZXQK`
 * **Output:** `redhunt.net` (Target's personal website)  
 
-![CyberChef Decode](02-cyberchef-decode.png)
+![CyberChef Decode](OSINT-Portfolio/01-Sp1ritFyre-Challenge/evidence/02-cyberchef-decode.jpeg)
 
 ### Phase 3: Deep Dorking
 Using the discovered domain, I performed Google Dorking to find correlated accounts and hidden pages.
@@ -47,7 +47,7 @@ Using the discovered domain, I performed Google Dorking to find correlated accou
 **Result:**
 This pivot revealed a Blogger profile (`sammiewoodsec.blogspot.com`) which contained the target's "About Me" page.
 
-![Blog Profile](03-blog-profile.png)
+![Blog Profile](OSINT-Portfolio/01-Sp1ritFyre-Challenge/evidence/03-blog-profile.jpeg)
 
 ---
 
