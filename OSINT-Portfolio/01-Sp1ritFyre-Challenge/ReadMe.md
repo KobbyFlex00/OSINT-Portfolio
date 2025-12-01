@@ -66,8 +66,9 @@ A Blogger profile linked directly to the target's personal alias.
 | **Email**              | `d1ved33p@gmail.com`                         |
 | **Malicious Activity** | Connected to MSP breach & leaked credentials |
 
----
+
 🧠 Skills Demonstrated
+
 Digital Footprinting: Mapping identity across platforms
 
 De-obfuscation: Base64 decoding & data interpretation
