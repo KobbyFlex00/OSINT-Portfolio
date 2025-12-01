@@ -1,4 +1,3 @@
-````markdown
 # 🕵️‍♀️ OSINT Investigation: Operation Sp1ritFyre
 
 ![Category](https://img.shields.io/badge/Category-OSINT-blue) ![Status](https://img.shields.io/badge/Status-Completed-success) ![Role](https://img.shields.io/badge/Role-Blue%20Team%20Analyst-orange)
