@@ -22,7 +22,7 @@ A comprehensive investigation into a simulated threat actor (`@sp1ritfyre`) invo
 
 ## 🛠️ Technical Skill Set
 * **Intelligence Gathering:** `Google Dorking`, `Social Media Intelligence (SOCMINT)`, `Metadata Analysis`.
-* **Tools:** `Maltego`, `SpiderFoot`, `CyberChef`, `ExifTool`, `Kali Linux`.
+* **Tools:**  `CyberChef`, `Kali Linux`. `whois`
 * **Analysis:** Threat Profiling, Identity Attribution, Link Analysis.
 
 ---
