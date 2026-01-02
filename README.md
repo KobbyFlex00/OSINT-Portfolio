@@ -11,19 +11,12 @@ Here you will find detailed write-ups of CTF challenges, investigation logs, and
 
 ## 📂 Portfolio Contents
 
-### 🕵️‍♀️ [1. Operation Sp1ritFyre (OSINT Challenge)](./01-Sp1ritFyre-Challenge)
+### 🕵️‍♀️ [Operation Sp1ritFyre (OSINT Challenge)](./01-Sp1ritFyre-Challenge)
 **Status:** ✅ Completed
 A comprehensive investigation into a simulated threat actor (`@sp1ritfyre`) involved in an MSP data breach.
 * **Techniques:** Social Media correlation, Base64 De-obfuscation, Google Dorking.
 * **Outcome:** Successfully identified the target's real identity, location, and malicious infrastructure.
 * [**View Full Report & Logs**](./01-Sp1ritFyre-Challenge)
-
-### 🤖 [2. Maltego Automation Concept](./02-Maltego-Automation-Concept)
-**Status:** ⚙️ Conceptual Design
-A logic design for automating the extraction and decoding of obfuscated data from social media profiles using Maltego.
-* **Techniques:** Workflow Automation, Python Logic, Regex Pattern Matching.
-* **Goal:** To reduce manual "pivot" time from 20 minutes to <30 seconds.
-* [**View Logic Design**](./02-Maltego-Automation-Concept)
 
 ---
 
